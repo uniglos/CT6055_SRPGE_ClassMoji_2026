@@ -1,0 +1,52 @@
+SURVIVAL RPG ENGINE
+NON-COMMERCIAL ACADEMIC USE LICENSE
+ 
+Copyright (c) 2026 Mongo Games. All rights reserved.
+ 
+1. GRANT OF LICENSE
+This license grants the University of Gloucestershire ("the Licensee") unlimited
+free, non-exclusive, non-transferable, royalty-free license to use the
+Survival RPG Engine and its associated assets ("the Software") solely for
+non-commercial, academic, educational, and research purposes.
+ 
+2. PERMITTED USE
+The Software may be used by staff and enrolled students of the University
+of Gloucestershire in connection with teaching, coursework, study, and
+academic research. Use is limited to the internal purposes of the
+University.
+ 
+3. RESTRICTIONS
+The Licensee may NOT:
+   a. Use the Software, in whole or in part, for any commercial purpose,
+      including the sale of products, services, or any work that generates
+      revenue.
+   b. Sell, sublicense, rent, lease, distribute, publish, or otherwise share
+      the Software, or any copy or derivative of it, with any individual or
+      organisation outside the University of Gloucestershire, except as
+      strictly required for the academic purposes set out above.
+   c. Remove or alter any copyright, attribution, or proprietary notices
+      contained in the Software.
+ 
+4. FAB MARKETPLACE TERMS
+This license is granted in addition to, and does not replace or override,
+the terms and conditions of the Fab Marketplace and its applicable End User
+License Agreement (EULA). The Licensee must comply with all terms and
+conditions of the Fab Marketplace at all times. In the event of any conflict,
+the Fab Marketplace terms and conditions shall prevail.
+ 
+5. OWNERSHIP
+All title, ownership rights, and intellectual property rights in and to the
+Software remain with the copyright holder. No rights are granted other than
+those expressly stated in this license.
+ 
+6. NO WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING
+FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+ 
+7. TERMINATION
+This license terminates automatically if the Licensee breaches any of its
+terms. Upon termination, the Licensee must cease all use of the Software and
+destroy all copies in its possession.
